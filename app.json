@@ -1,4 +1,11 @@
 {
   "name": "CodeOptimization",
-  "displayName": "CodeOptimization"
+  "displayName": "CodeOptimization",
+  "expo": {
+    "name": "CodeOptimization",
+    "slug": "code-optimization",
+    "ios": {
+      "bundleIdentifier": "com.jamonholmgren.code-optimization"
+    }
+  }
 }
